@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+.idea/
+.DS_Store
+.cursor/*
+
+# Personal notes (contains private career/profile info - keep local, never push)
+docs/PROJECT_PLAN.md
