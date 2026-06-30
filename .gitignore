@@ -18,3 +18,8 @@ env/
 
 # Personal notes (contains private career/profile info - keep local, never push)
 docs/PROJECT_PLAN.md
+
+# Caches (tools)
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
